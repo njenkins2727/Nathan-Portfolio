@@ -3,6 +3,10 @@
   --white: white;
 }
 
+html{
+  scroll-behavior: smooth;
+}
+
 body{
   background-image: url("./images/orange-background.jpeg");
   background-repeat: no-repeat;
